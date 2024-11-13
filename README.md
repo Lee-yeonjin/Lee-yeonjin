@@ -9,7 +9,7 @@
          <a href=mailto:lyjduswls0307@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:lyjduswls0307@gmail.com"> </a>
           </div><br>
     <div align= "center">  </div> 
-    <h2 align="center">📧 Email 📧</h2><br>
+    <h2 align="center">📧 Email 📧</h2>
 <p align="center">
   <Strong>lyjduswls37@naver.com</Strong>
 </p><br>
