@@ -1,5 +1,4 @@
-## Hi there 👋
-
+## 👋 Hi there 👋
 <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Skills </h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
@@ -15,7 +14,8 @@
           <br/><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
           </div>
     </div>
-
+    
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lee-yeonjin&show_icons=true&theme=radical)
     
 <!--
 **Lee-yeonjin/Lee-yeonjin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
