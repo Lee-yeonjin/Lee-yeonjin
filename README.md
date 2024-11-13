@@ -1,5 +1,14 @@
 ## 👋 Hi there 👋
 <div align= "center">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me 🧑‍💻 </h2> <br> 
+    <div align= "center"> <a href=https://lyjduswls.tistory.com> <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://lyjduswls.tistory.com"> </a>
+         <a href=lyjduswls0307@gmail.com> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=lyjduswls0307@gmail.com"> </a>
+         <a href=https://www.instagram.com/uniuorh_10> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/uniuorh_10"> </a>
+         <a href=mailto:lyjduswls0307@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:lyjduswls0307@gmail.com"> </a>
+          </div>  <br> 
+    <div align= "center">  </div> 
+    </div>
+<div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ✨ Teck Stack ✨ </h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
           <img src="https://img.shields.io/badge/✨?style=for-the-badge&logo=Flask&logoColor=white">
@@ -17,9 +26,7 @@
 <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📋 Stat 📋 </h2> <br> 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lee-yeonjin&show_icons=true&theme=radical)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lee-yeonjin&show_icons=true&theme=radical)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={Lee-yeonjin})
     
 <!--
 **Lee-yeonjin/Lee-yeonjin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
