@@ -31,6 +31,6 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📋 Stat 📋 </h2>
     
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lee-yeonjin&show_icons=true&theme=radical)    
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lee-yeonjin&layout=compact&theme=dracula)
+<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Lee-yeonjin&layout=compact&theme=dracula">
 
 <br>
