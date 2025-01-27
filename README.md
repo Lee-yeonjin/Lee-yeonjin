@@ -29,7 +29,7 @@
     </div><br>
 <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📋 Stat 📋 </h2>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lee-yeonjin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lee-yeonjin" />
 <br>
 
 <!--  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lee-yeonjin&layout=compact&theme=dracula"> 
