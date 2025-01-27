@@ -33,6 +33,7 @@
 <img src = "https://github-readme-stats.vercel.app/api?username=Lee-yeonjin&show_icons=true&theme=radical">
 <br>
 <!-- <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Lee-yeonjin&layout=compact&theme=dracula"> -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lee-yeonjin&layout=compact)
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lee-yeonjin&layout=compact)-->
 <br>
