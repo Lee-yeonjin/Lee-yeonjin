@@ -30,7 +30,8 @@
 <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📋 Stat 📋 </h2>
 <img src = "https://github-readme-stats.vercel.app/api?username=Lee-yeonjin&show_icons=true&theme=radical">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Lee-yeonjin&layout=compact&theme=dracula">
+![image](https://github-readme-stats.vercel.app/api/top-langs/?username=Lee-yeonjin&layout=compact&langs_count=8&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff)
+
 <br>
 
 <!--  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lee-yeonjin&layout=compact&theme=dracula"> 
