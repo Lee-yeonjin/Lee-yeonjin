@@ -9,10 +9,13 @@
          <a href=mailto:lyjduswls0307@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:lyjduswls0307@gmail.com"> </a>
           </div><br>
     <div align= "center">  </div> 
-    <h2 align="center">📧 Email 📧</h2>
-<p align="center">
-  <Strong>lyjduswls37@naver.com</Strong>
-</p><br>
+<h3 align="center">📫 Contact 📫</h3>
+<div align="center">
+  <a href="mailto:lyjduswls37@naver.com">
+    <img src="https://img.shields.io/badge/lyjduswls37@naver.com-03C75A?style=for-the-badge&logo=niconico&logoColor=white" />&nbsp
+  </a>
+</div>
+ 
 <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ✨ Tech Stack ✨ </h2>
     <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
